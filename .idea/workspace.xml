@@ -219,7 +219,7 @@
       <workItem from="1534405028731" duration="33000" />
       <workItem from="1534405072211" duration="2902000" />
       <workItem from="1534485770399" duration="573000" />
-      <workItem from="1534563842352" duration="2694000" />
+      <workItem from="1534563842352" duration="3860000" />
     </task>
     <task id="LOCAL-00001" summary="v1.0.0">
       <created>1534390528970</created>
@@ -312,11 +312,25 @@
       <option name="project" value="LOCAL" />
       <updated>1534590850928</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="test11">
+      <created>1534591178368</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1534591178368</updated>
+    </task>
+    <task id="LOCAL-00015" summary="test12">
+      <created>1534591767772</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1534591767773</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9726000" />
+    <option name="totallyTimeSpent" value="10892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="28" width="1661" height="993" extended-state="0" />
@@ -361,7 +375,9 @@
     <MESSAGE value="test08" />
     <MESSAGE value="test09" />
     <MESSAGE value="test10" />
-    <option name="LAST_COMMIT_MESSAGE" value="test10" />
+    <MESSAGE value="test11" />
+    <MESSAGE value="test12" />
+    <option name="LAST_COMMIT_MESSAGE" value="test12" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
