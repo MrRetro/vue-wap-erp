@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e93449a5-c5f2-4c2c-8ac9-33ec442543a2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -220,7 +219,7 @@
       <workItem from="1534405072211" duration="2902000" />
       <workItem from="1534485770399" duration="573000" />
       <workItem from="1534563842352" duration="5411000" />
-      <workItem from="1534594584669" duration="339000" />
+      <workItem from="1534594584669" duration="678000" />
     </task>
     <task id="LOCAL-00001" summary="v1.0.0">
       <created>1534390528970</created>
@@ -369,14 +368,22 @@
       <option name="project" value="LOCAL" />
       <updated>1534593274694</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="test19">
+      <created>1534594977074</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1534594977074</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12782000" />
+    <option name="totallyTimeSpent" value="13121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="19" width="1661" height="993" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825785" visible="true" weight="0.292517" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -425,7 +432,8 @@
     <MESSAGE value="test16" />
     <MESSAGE value="test17" />
     <MESSAGE value="test18" />
-    <option name="LAST_COMMIT_MESSAGE" value="test18" />
+    <MESSAGE value="test19" />
+    <option name="LAST_COMMIT_MESSAGE" value="test19" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
