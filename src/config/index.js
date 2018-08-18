@@ -6,7 +6,7 @@ import Vue from 'vue';
 import './es5fix';
 // 环境
 // TODO 设置环境
-const ENV = 'DEV';
+const ENV = 'TEST';
 // 是否运行在钉钉平台上
 const RUN_IN_DD = false;
 // 判断是不是开发环境

@@ -103,8 +103,8 @@ const user = {
       return new Promise((resolve, reject) => {
         if (!RUN_IN_DD) {
           // TODO 待取消
-          resolve(dispatch('handleLogin', '0234106038775759'));
-          // resolve(dispatch('handleLogin', '181008074935191688'));
+          // resolve(dispatch('handleLogin', '0234106038775759'));
+          resolve(dispatch('handleLogin', '181008074935191688'));
         } else if (!dd.version) {
           reject({code: -1, message: '获取钉钉用户信息失败,请在钉钉环境运行此项目'});
         }
